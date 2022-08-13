@@ -1,0 +1,265 @@
+.google{
+    width: 1500px;
+    height: 710px;
+     
+}
+
+.top{
+    width: 1500px;
+    height:50px;
+    
+}
+
+.img{
+    float: right;
+    width: 40px;
+    height: 40px;
+    margin-top: 5px;
+    margin-right: 2px;
+}
+
+.image{
+    width: 30px;
+    height: 30px;
+   padding-top: 2px;
+   padding-right: 5px;
+   border-radius: 1px;
+   color: #f2f2f2;
+}
+
+.gpapp{
+    width: 40px;
+    height: 40px;
+    float: right;
+    margin-top: 5px;
+    margin-right: 5px;
+    border-radius: 1px;
+    color: #f2f2f2;
+}
+
+.görseller{
+    padding-top: 15px;
+    padding-right: 8px;
+    margin-right: 8px;
+    float: right;
+    background-color: white;
+    text-decoration: none;
+}
+
+.gmail{
+    background-color: white;
+    float: right;
+    padding-top: 15px;
+    margin-right: 8px;
+    text-decoration: none;
+}
+
+.logo{
+    width: 1500px;
+    height: 160px;
+    
+
+}
+
+.logoimg{
+   padding-right: 620px;
+   padding-top: 68px;
+   float: right;
+}
+
+.search{
+    width: 1500px;
+    height: 160px;
+}
+.input{
+    width: 1000px;
+    height: 10px;
+    padding-right: 600px;
+   
+}
+.mic{
+    float: right;
+    height: 59px;
+    padding-top: 8px;
+    
+    
+    
+}
+.klavye{
+    float: right;
+    padding-top: 8px;
+    
+    
+   
+}
+
+.text{
+    float: left;
+    margin-top: 1px;
+    padding-top: 20px;
+    padding-left: 200px;
+}
+
+.aramabutonu{
+    float: right;
+    padding-top: 13px;
+    
+}
+
+.ara{
+    width: 1500px;
+    height: 58px;
+    padding-bottom: 42px;
+    margin-top: 50px;
+}
+
+.button1{
+    width: 216px;
+    height: 36px;
+    margin-left: 760px;
+    margin-top: 20px;
+    border-radius: 3px;
+    
+}
+
+.yazı1{
+    
+    margin-top: 8px;
+    border-radius: 1px;
+   
+}
+
+.button2{
+    float: left;
+    width: 122px;
+    height: 36px;
+    margin-left: 560px;
+    margin-top: -36px;
+    border-radius: 3px;
+   
+}
+
+.yazı2{
+    margin-top: 8px;
+    border-radius: 1px;
+    
+    
+}
+
+.dil{
+    
+    width: 1500px;
+    height: 200px;
+    margin-top: -15px;
+
+}
+.kuldil{
+    width: 1500px;
+    height: 30px;
+    margin-left: 600px;
+}
+
+.turk{
+    width: 1500px;
+    height: 50px;
+    background-color: lightgray;
+
+    
+}
+
+
+.turkyazı{
+    padding: 14px;
+    margin-left: 5px;
+    
+}
+
+.bottom{
+    width: 1500px;
+    height: 48px;
+   background-color: lightgrey; 
+  border-top-color: yellow;
+}
+
+.ayarlar{
+    width: 60px;
+    height: 18px;
+    
+    float: right;
+    margin-top: 0;
+    padding: 15px;
+   
+}
+
+.sartlar{
+    width: 60px;
+    height: 18px;
+   
+    float: right;
+    margin-top: 0;
+    padding: 15px; 
+   
+}
+
+.gizlilik{
+    width: 60px;
+    height: 18px;
+   
+    float: right;
+    margin-top: 0;
+    padding: 15px;
+}
+
+.karbon{
+    width: 233px;
+    height: 18px;
+    
+    margin-left: 620px;
+    margin-top: 0;
+    padding: 15px;
+}
+
+.aramacalisma{
+    width: 153px;
+    height: 18px;
+    
+    margin-top: -64px;
+    margin-left: 290px;
+    padding:15px;
+    padding-left: -20px;
+    
+}
+
+.isletme{
+    width: 65px;
+    height: 18px;
+    
+    margin-top: -64px;
+    margin-left:195px;
+    padding:15px;
+    padding-left: -20px;
+}
+
+.reklam{
+    width: 65px;
+    height: 18px;
+    
+    margin-top: -64px;
+    margin-left:99px;
+    padding:15px;
+    padding-left: -20px;
+}
+
+.hakkında{
+    width: 68px;
+    height: 18px;
+   
+    margin-top: -64px;
+    text-decoration: none;
+    padding:15px;
+    padding-left: -20px;
+}
+a{
+    text-decoration: none;
+}
+
